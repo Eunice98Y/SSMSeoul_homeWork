@@ -1,5 +1,5 @@
 # ssm-seoul-data-engineer
-![20230507_141609_1](https://user-images.githubusercontent.com/132797453/236659364-9c17fbb5-d1e1-4127-8691-aafbaf3998c7.png)
+![1](https://user-images.githubusercontent.com/132797453/236659413-44df3876-42a0-473a-a7e3-7e81dd638e91.png)
 ![20230507_141609_2](https://user-images.githubusercontent.com/132797453/236659368-bef5cc85-0e55-4d86-9f14-09146af93fdc.png)
 ![20230507_141609_3](https://user-images.githubusercontent.com/132797453/236659369-d189f6be-7ccc-4f34-873b-277817b3c1cc.png)
 ![20230507_141609_4](https://user-images.githubusercontent.com/132797453/236659371-7f884e34-12b3-4a77-9a9a-f42749150380.png)
